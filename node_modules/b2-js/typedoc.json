@@ -1,8 +1,0 @@
-{
-  "inputFiles": ["./src"],
-  "mode": "modules",
-  "out": "docs",
-  "excludePrivate": true,
-  "excludeNotExported": true,
-  "stripInternal": true
-}
